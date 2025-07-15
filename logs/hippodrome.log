@@ -1,0 +1,268 @@
+2025-07-14 09:47:59.896 DEBUG Horse: Created a Horse named [Houdini}] with speed [2.4]
+2025-07-14 09:47:59.902 DEBUG Horse: Created a Horse named [Comanche}] with speed [2.5]
+2025-07-14 09:47:59.903 DEBUG Horse: Created a Horse named [Ranger}] with speed [2.6]
+2025-07-14 09:47:59.904 DEBUG Horse: Created a Horse named [Elvis}] with speed [2.7]
+2025-07-14 09:47:59.905 DEBUG Horse: Created a Horse named [Yoda}] with speed [2.8]
+2025-07-14 09:47:59.906 DEBUG Horse: Created a Horse named [Pegasus}] with speed [2.9]
+2025-07-14 09:47:59.907 DEBUG Horse: Created a Horse named [Shelby}] with speed [3.0]
+2025-07-14 09:47:59.909 DEBUG Hippodrome: Created a Hippodrome with [7] horses
+2025-07-14 09:47:59.910 INFO  Main: Start of the race. Number of participants: 7
+2025-07-14 09:48:20.505 INFO  Main: End of the race. Winner: Pegasus
+2025-07-14 19:27:06.716 DEBUG Horse: Created a Horse named [Houdini}] with speed [2.4]
+2025-07-14 19:27:06.732 DEBUG Horse: Created a Horse named [Comanche}] with speed [2.5]
+2025-07-14 19:27:06.732 DEBUG Horse: Created a Horse named [Ranger}] with speed [2.6]
+2025-07-14 19:27:06.732 DEBUG Horse: Created a Horse named [Elvis}] with speed [2.7]
+2025-07-14 19:27:06.732 DEBUG Horse: Created a Horse named [Yoda}] with speed [2.8]
+2025-07-14 19:27:06.732 DEBUG Horse: Created a Horse named [Pegasus}] with speed [2.9]
+2025-07-14 19:27:06.732 DEBUG Horse: Created a Horse named [Shelby}] with speed [3.0]
+2025-07-14 19:27:06.732 DEBUG Hippodrome: Created a Hippodrome with [7] horses
+2025-07-14 19:27:06.732 INFO  Main: Start of the race. Number of participants: 7
+2025-07-14 19:27:27.642 INFO  Main: End of the race. Winner: Pegasus
+2025-07-14 19:29:18.233 DEBUG Horse: Created a Horse named [Houdini}] with speed [2.4]
+2025-07-14 19:29:18.233 DEBUG Horse: Created a Horse named [Comanche}] with speed [2.5]
+2025-07-14 19:29:18.233 DEBUG Horse: Created a Horse named [Ranger}] with speed [2.6]
+2025-07-14 19:29:18.233 DEBUG Horse: Created a Horse named [Elvis}] with speed [2.7]
+2025-07-14 19:29:18.233 DEBUG Horse: Created a Horse named [Yoda}] with speed [2.8]
+2025-07-14 19:29:18.233 DEBUG Horse: Created a Horse named [Pegasus}] with speed [2.9]
+2025-07-14 19:29:18.233 DEBUG Horse: Created a Horse named [Shelby}] with speed [3.0]
+2025-07-14 19:29:18.233 DEBUG Hippodrome: Created a Hippodrome with [7] horses
+2025-07-14 19:29:18.233 INFO  Main: Start of the race. Number of participants: 7
+2025-07-14 19:29:38.645 INFO  Main: End of the race. Winner: Shelby
+2025-07-14 19:31:50.342 DEBUG Horse: Created a Horse named [Houdini}] with speed [2.4]
+2025-07-14 19:31:50.357 DEBUG Horse: Created a Horse named [Comanche}] with speed [2.5]
+2025-07-14 19:31:50.357 DEBUG Horse: Created a Horse named [Ranger}] with speed [2.6]
+2025-07-14 19:31:50.357 DEBUG Horse: Created a Horse named [Elvis}] with speed [2.7]
+2025-07-14 19:31:50.357 DEBUG Horse: Created a Horse named [Yoda}] with speed [2.8]
+2025-07-14 19:31:50.357 DEBUG Horse: Created a Horse named [Pegasus}] with speed [2.9]
+2025-07-14 19:31:50.357 DEBUG Horse: Created a Horse named [Shelby}] with speed [3.0]
+2025-07-14 19:31:50.357 DEBUG Hippodrome: Created a Hippodrome with [7] horses
+2025-07-14 19:31:50.357 INFO  Main: Start of the race. Number of participants: 7
+2025-07-14 19:32:10.849 INFO  Main: End of the race. Winner: Pegasus
+2025-07-14 19:33:37.531 DEBUG Horse: Created a Horse named [Caballo0}] with speed [0.0]
+2025-07-14 19:33:37.547 DEBUG Horse: Created a Horse named [Caballo1}] with speed [1.0]
+2025-07-14 19:33:37.547 DEBUG Horse: Created a Horse named [Caballo2}] with speed [2.0]
+2025-07-14 19:33:37.547 DEBUG Horse: Created a Horse named [Caballo3}] with speed [3.0]
+2025-07-14 19:33:37.547 DEBUG Horse: Created a Horse named [Caballo4}] with speed [4.0]
+2025-07-14 19:33:37.547 DEBUG Horse: Created a Horse named [Caballo5}] with speed [5.0]
+2025-07-14 19:33:37.547 DEBUG Horse: Created a Horse named [Caballo6}] with speed [6.0]
+2025-07-14 19:33:37.547 DEBUG Horse: Created a Horse named [Caballo7}] with speed [7.0]
+2025-07-14 19:33:37.547 DEBUG Horse: Created a Horse named [Caballo8}] with speed [8.0]
+2025-07-14 19:33:37.547 DEBUG Horse: Created a Horse named [Caballo9}] with speed [9.0]
+2025-07-14 19:33:37.547 DEBUG Horse: Created a Horse named [Caballo10}] with speed [10.0]
+2025-07-14 19:33:37.547 DEBUG Horse: Created a Horse named [Caballo11}] with speed [11.0]
+2025-07-14 19:33:37.547 DEBUG Horse: Created a Horse named [Caballo12}] with speed [12.0]
+2025-07-14 19:33:37.547 DEBUG Horse: Created a Horse named [Caballo13}] with speed [13.0]
+2025-07-14 19:33:37.547 DEBUG Horse: Created a Horse named [Caballo14}] with speed [14.0]
+2025-07-14 19:33:37.547 DEBUG Horse: Created a Horse named [Caballo15}] with speed [15.0]
+2025-07-14 19:33:37.547 DEBUG Horse: Created a Horse named [Caballo16}] with speed [16.0]
+2025-07-14 19:33:37.547 DEBUG Horse: Created a Horse named [Caballo17}] with speed [17.0]
+2025-07-14 19:33:37.547 DEBUG Horse: Created a Horse named [Caballo18}] with speed [18.0]
+2025-07-14 19:33:37.547 DEBUG Horse: Created a Horse named [Caballo19}] with speed [19.0]
+2025-07-14 19:33:37.547 DEBUG Horse: Created a Horse named [Caballo20}] with speed [20.0]
+2025-07-14 19:33:37.547 DEBUG Horse: Created a Horse named [Caballo21}] with speed [21.0]
+2025-07-14 19:33:37.563 DEBUG Horse: Created a Horse named [Caballo22}] with speed [22.0]
+2025-07-14 19:33:37.563 DEBUG Horse: Created a Horse named [Caballo23}] with speed [23.0]
+2025-07-14 19:33:37.563 DEBUG Horse: Created a Horse named [Caballo24}] with speed [24.0]
+2025-07-14 19:33:37.563 DEBUG Horse: Created a Horse named [Caballo25}] with speed [25.0]
+2025-07-14 19:33:37.563 DEBUG Horse: Created a Horse named [Caballo26}] with speed [26.0]
+2025-07-14 19:33:37.563 DEBUG Horse: Created a Horse named [Caballo27}] with speed [27.0]
+2025-07-14 19:33:37.563 DEBUG Horse: Created a Horse named [Caballo28}] with speed [28.0]
+2025-07-14 19:33:37.563 DEBUG Horse: Created a Horse named [Caballo29}] with speed [29.0]
+2025-07-14 19:33:37.563 DEBUG Hippodrome: Created a Hippodrome with [30] horses
+2025-07-14 19:33:39.937 DEBUG Hippodrome: Created a Hippodrome with [50] horses
+2025-07-14 19:33:39.968 DEBUG Horse: Created a Horse named [Caballo}] with speed [0.0]
+2025-07-14 19:33:39.968 DEBUG Horse: Created a Horse named [Caballo}] with speed [0.0]
+2025-07-14 19:33:39.968 DEBUG Horse: Created a Horse named [Caballo}] with speed [0.0]
+2025-07-14 19:33:39.968 DEBUG Hippodrome: Created a Hippodrome with [3] horses
+2025-07-14 19:33:39.984 ERROR Hippodrome: Horses list is null
+2025-07-14 19:33:39.999 ERROR Hippodrome: Horses list is empty
+2025-07-14 19:34:37.858 DEBUG Horse: Created a Horse named [Caballo}] with speed [10.0]
+2025-07-14 19:34:37.889 DEBUG Horse: Created a Horse named [Caballo}] with speed [10.0]
+2025-07-14 19:34:37.920 ERROR Horse: Name is null
+2025-07-14 19:34:37.936 ERROR Horse: Speed is negative
+2025-07-14 19:34:37.952 ERROR Horse: Speed is negative
+2025-07-14 19:34:37.952 ERROR Horse: Speed is negative
+2025-07-14 19:34:37.967 ERROR Horse: Name is blank
+2025-07-14 19:34:37.983 ERROR Horse: Name is blank
+2025-07-14 19:34:37.998 ERROR Horse: Name is blank
+2025-07-14 19:34:38.014 ERROR Horse: Distance is negative
+2025-07-14 19:34:38.030 ERROR Horse: Distance is negative
+2025-07-14 19:34:38.061 ERROR Horse: Distance is negative
+2025-07-14 19:36:04.541 DEBUG Horse: Created a Horse named [Caballo}] with speed [10.0]
+2025-07-14 19:36:45.747 DEBUG Horse: Created a Horse named [Caballo}] with speed [10.0]
+2025-07-14 19:36:45.794 DEBUG Horse: Created a Horse named [Caballo}] with speed [10.0]
+2025-07-14 19:36:45.826 ERROR Horse: Name is null
+2025-07-14 19:36:45.841 ERROR Horse: Speed is negative
+2025-07-14 19:36:45.857 ERROR Horse: Speed is negative
+2025-07-14 19:36:45.857 ERROR Horse: Speed is negative
+2025-07-14 19:36:45.888 ERROR Horse: Name is blank
+2025-07-14 19:36:45.888 ERROR Horse: Name is blank
+2025-07-14 19:36:45.904 ERROR Horse: Name is blank
+2025-07-14 19:36:45.920 ERROR Horse: Distance is negative
+2025-07-14 19:36:45.935 ERROR Horse: Distance is negative
+2025-07-14 19:36:45.966 ERROR Horse: Distance is negative
+2025-07-14 19:39:58.551 DEBUG Horse: Created a Horse named [Caballo}] with speed [10.0]
+2025-07-14 19:40:02.567 DEBUG Horse: Created a Horse named [Caballo}] with speed [10.0]
+2025-07-14 19:41:09.270 ERROR Horse: Name is null
+2025-07-14 19:41:09.285 ERROR Horse: Speed is negative
+2025-07-14 19:41:09.301 ERROR Horse: Speed is negative
+2025-07-14 19:41:09.317 ERROR Horse: Speed is negative
+2025-07-14 19:41:09.348 ERROR Horse: Name is blank
+2025-07-14 19:41:09.348 ERROR Horse: Name is blank
+2025-07-14 19:41:09.363 ERROR Horse: Name is blank
+2025-07-14 19:41:09.379 ERROR Horse: Distance is negative
+2025-07-14 19:41:22.135 DEBUG Horse: Created a Horse named [Caballo}] with speed [10.0]
+2025-07-14 19:41:22.151 DEBUG Horse: Created a Horse named [Caballo}] with speed [10.0]
+2025-07-14 19:41:22.182 ERROR Horse: Name is null
+2025-07-14 19:41:22.198 ERROR Horse: Speed is negative
+2025-07-14 19:41:22.198 ERROR Horse: Speed is negative
+2025-07-14 19:41:22.214 ERROR Horse: Speed is negative
+2025-07-14 19:41:22.229 ERROR Horse: Name is blank
+2025-07-14 19:41:22.229 ERROR Horse: Name is blank
+2025-07-14 19:41:22.245 ERROR Horse: Name is blank
+2025-07-14 19:41:22.260 ERROR Horse: Distance is negative
+2025-07-14 19:41:22.260 ERROR Horse: Distance is negative
+2025-07-14 19:41:22.276 ERROR Horse: Distance is negative
+2025-07-14 19:41:49.878 DEBUG Horse: Created a Horse named [Caballo}] with speed [10.0]
+2025-07-14 19:41:49.894 DEBUG Horse: Created a Horse named [Caballo}] with speed [10.0]
+2025-07-14 19:41:49.941 ERROR Horse: Name is null
+2025-07-14 19:41:49.956 ERROR Horse: Speed is negative
+2025-07-14 19:41:49.956 ERROR Horse: Speed is negative
+2025-07-14 19:41:49.972 ERROR Horse: Speed is negative
+2025-07-14 19:41:49.988 ERROR Horse: Name is blank
+2025-07-14 19:41:50.003 ERROR Horse: Name is blank
+2025-07-14 19:41:50.003 ERROR Horse: Name is blank
+2025-07-14 19:41:50.019 ERROR Horse: Distance is negative
+2025-07-14 19:41:50.034 ERROR Horse: Distance is negative
+2025-07-14 19:41:50.034 ERROR Horse: Distance is negative
+2025-07-14 19:41:58.506 DEBUG Horse: Created a Horse named [Caballo}] with speed [10.0]
+2025-07-14 19:41:58.537 DEBUG Horse: Created a Horse named [Caballo}] with speed [10.0]
+2025-07-14 19:41:58.569 ERROR Horse: Name is null
+2025-07-14 19:41:58.585 ERROR Horse: Speed is negative
+2025-07-14 19:41:58.601 ERROR Horse: Speed is negative
+2025-07-14 19:41:58.601 ERROR Horse: Speed is negative
+2025-07-14 19:41:58.616 ERROR Horse: Name is blank
+2025-07-14 19:41:58.632 ERROR Horse: Name is blank
+2025-07-14 19:41:58.642 ERROR Horse: Name is blank
+2025-07-14 19:41:58.642 ERROR Horse: Distance is negative
+2025-07-14 19:41:58.658 ERROR Horse: Distance is negative
+2025-07-14 19:41:58.673 ERROR Horse: Distance is negative
+2025-07-14 19:42:06.583 DEBUG Horse: Created a Horse named [Caballo}] with speed [10.0]
+2025-07-14 19:42:06.615 DEBUG Horse: Created a Horse named [Caballo}] with speed [10.0]
+2025-07-14 19:42:06.630 ERROR Horse: Name is null
+2025-07-14 19:42:06.646 ERROR Horse: Speed is negative
+2025-07-14 19:42:06.661 ERROR Horse: Speed is negative
+2025-07-14 19:42:06.677 ERROR Horse: Speed is negative
+2025-07-14 19:42:06.677 ERROR Horse: Name is blank
+2025-07-14 19:42:06.693 ERROR Horse: Name is blank
+2025-07-14 19:42:06.708 ERROR Horse: Name is blank
+2025-07-14 19:42:06.708 ERROR Horse: Distance is negative
+2025-07-14 19:42:06.724 ERROR Horse: Distance is negative
+2025-07-14 19:42:06.724 ERROR Horse: Distance is negative
+2025-07-14 19:42:15.135 DEBUG Horse: Created a Horse named [Caballo}] with speed [10.0]
+2025-07-14 19:42:15.151 DEBUG Horse: Created a Horse named [Caballo}] with speed [10.0]
+2025-07-14 19:42:15.182 ERROR Horse: Name is null
+2025-07-14 19:42:15.197 ERROR Horse: Speed is negative
+2025-07-14 19:42:15.213 ERROR Horse: Speed is negative
+2025-07-14 19:42:15.229 ERROR Horse: Speed is negative
+2025-07-14 19:42:15.244 ERROR Horse: Name is blank
+2025-07-14 19:42:15.260 ERROR Horse: Name is blank
+2025-07-14 19:42:15.276 ERROR Horse: Name is blank
+2025-07-14 19:42:15.286 ERROR Horse: Distance is negative
+2025-07-14 19:42:15.302 ERROR Horse: Distance is negative
+2025-07-14 19:42:15.319 ERROR Horse: Distance is negative
+2025-07-14 19:42:23.523 DEBUG Horse: Created a Horse named [Caballo}] with speed [10.0]
+2025-07-14 19:42:23.539 DEBUG Horse: Created a Horse named [Caballo}] with speed [10.0]
+2025-07-14 19:42:23.570 ERROR Horse: Name is null
+2025-07-14 19:42:23.586 ERROR Horse: Speed is negative
+2025-07-14 19:42:23.602 ERROR Horse: Speed is negative
+2025-07-14 19:42:23.602 ERROR Horse: Speed is negative
+2025-07-14 19:42:23.617 ERROR Horse: Name is blank
+2025-07-14 19:42:23.633 ERROR Horse: Name is blank
+2025-07-14 19:42:23.633 ERROR Horse: Name is blank
+2025-07-14 19:42:23.648 ERROR Horse: Distance is negative
+2025-07-14 19:42:23.648 ERROR Horse: Distance is negative
+2025-07-14 19:42:23.664 ERROR Horse: Distance is negative
+2025-07-14 19:42:39.509 DEBUG Horse: Created a Horse named [Caballo}] with speed [10.0]
+2025-07-14 19:42:39.525 DEBUG Horse: Created a Horse named [Caballo}] with speed [10.0]
+2025-07-14 19:42:39.556 ERROR Horse: Name is null
+2025-07-14 19:42:39.556 ERROR Horse: Speed is negative
+2025-07-14 19:42:39.571 ERROR Horse: Speed is negative
+2025-07-14 19:42:39.571 ERROR Horse: Speed is negative
+2025-07-14 19:42:39.571 ERROR Horse: Name is blank
+2025-07-14 19:42:39.587 ERROR Horse: Name is blank
+2025-07-14 19:42:39.598 ERROR Horse: Name is blank
+2025-07-14 19:42:39.598 ERROR Horse: Distance is negative
+2025-07-14 19:42:39.598 ERROR Horse: Distance is negative
+2025-07-14 19:42:39.614 ERROR Horse: Distance is negative
+2025-07-14 19:42:48.399 DEBUG Horse: Created a Horse named [Caballo}] with speed [10.0]
+2025-07-14 19:42:48.430 DEBUG Horse: Created a Horse named [Caballo}] with speed [10.0]
+2025-07-14 19:42:48.453 ERROR Horse: Name is null
+2025-07-14 19:42:48.469 ERROR Horse: Speed is negative
+2025-07-14 19:42:48.469 ERROR Horse: Speed is negative
+2025-07-14 19:42:48.484 ERROR Horse: Speed is negative
+2025-07-14 19:42:48.511 ERROR Horse: Name is blank
+2025-07-14 19:42:48.526 ERROR Horse: Name is blank
+2025-07-14 19:42:48.526 ERROR Horse: Name is blank
+2025-07-14 19:42:48.542 ERROR Horse: Distance is negative
+2025-07-14 19:42:48.558 ERROR Horse: Distance is negative
+2025-07-14 19:42:48.558 ERROR Horse: Distance is negative
+2025-07-14 19:42:56.705 DEBUG Horse: Created a Horse named [Caballo}] with speed [10.0]
+2025-07-14 19:42:56.721 DEBUG Horse: Created a Horse named [Caballo}] with speed [10.0]
+2025-07-14 19:42:56.752 ERROR Horse: Name is null
+2025-07-14 19:42:56.768 ERROR Horse: Speed is negative
+2025-07-14 19:42:56.783 ERROR Horse: Speed is negative
+2025-07-14 19:42:56.799 ERROR Horse: Speed is negative
+2025-07-14 19:42:56.816 ERROR Horse: Name is blank
+2025-07-14 19:42:56.831 ERROR Horse: Name is blank
+2025-07-14 19:42:56.847 ERROR Horse: Name is blank
+2025-07-14 19:42:56.863 ERROR Horse: Distance is negative
+2025-07-14 19:42:56.879 ERROR Horse: Distance is negative
+2025-07-14 19:42:56.894 ERROR Horse: Distance is negative
+2025-07-14 19:47:29.536 DEBUG Horse: Created a Horse named [Caballo}] with speed [10.0]
+2025-07-14 19:47:29.552 DEBUG Horse: Created a Horse named [Caballo}] with speed [10.0]
+2025-07-14 19:47:29.570 ERROR Horse: Name is null
+2025-07-14 19:47:29.579 ERROR Horse: Speed is negative
+2025-07-14 19:47:29.584 ERROR Horse: Speed is negative
+2025-07-14 19:47:29.589 ERROR Horse: Speed is negative
+2025-07-14 19:47:29.598 ERROR Horse: Name is blank
+2025-07-14 19:47:29.603 ERROR Horse: Name is blank
+2025-07-14 19:47:29.608 ERROR Horse: Name is blank
+2025-07-14 19:47:29.616 ERROR Horse: Distance is negative
+2025-07-14 19:47:29.622 ERROR Horse: Distance is negative
+2025-07-14 19:47:29.629 ERROR Horse: Distance is negative
+2025-07-14 19:48:02.326 DEBUG Horse: Created a Horse named [Caballo}] with speed [10.0]
+2025-07-14 19:48:02.342 DEBUG Horse: Created a Horse named [Caballo}] with speed [10.0]
+2025-07-14 19:48:02.360 ERROR Horse: Name is null
+2025-07-14 19:48:02.370 ERROR Horse: Speed is negative
+2025-07-14 19:48:02.375 ERROR Horse: Speed is negative
+2025-07-14 19:48:02.380 ERROR Horse: Speed is negative
+2025-07-14 19:48:02.395 ERROR Horse: Name is blank
+2025-07-14 19:48:02.402 ERROR Horse: Name is blank
+2025-07-14 19:48:02.408 ERROR Horse: Name is blank
+2025-07-14 19:48:02.416 ERROR Horse: Distance is negative
+2025-07-14 19:48:02.422 ERROR Horse: Distance is negative
+2025-07-14 19:48:02.428 ERROR Horse: Distance is negative
+2025-07-14 19:51:51.294 DEBUG Horse: Created a Horse named [Caballo}] with speed [10.0]
+2025-07-14 19:51:51.312 DEBUG Horse: Created a Horse named [Caballo}] with speed [10.0]
+2025-07-14 19:51:51.335 ERROR Horse: Name is null
+2025-07-14 19:51:51.352 ERROR Horse: Speed is negative
+2025-07-14 19:51:51.359 ERROR Horse: Speed is negative
+2025-07-14 19:51:51.365 ERROR Horse: Speed is negative
+2025-07-14 19:51:51.378 ERROR Horse: Name is blank
+2025-07-14 19:51:51.387 ERROR Horse: Name is blank
+2025-07-14 19:51:51.396 ERROR Horse: Name is blank
+2025-07-14 19:51:51.408 ERROR Horse: Distance is negative
+2025-07-14 19:51:51.421 ERROR Horse: Distance is negative
+2025-07-14 19:51:51.430 ERROR Horse: Distance is negative
+2025-07-14 20:07:10.762 DEBUG Horse: Created a Horse named [Houdini}] with speed [2.4]
+2025-07-14 20:07:10.772 DEBUG Horse: Created a Horse named [Comanche}] with speed [2.5]
+2025-07-14 20:07:10.773 DEBUG Horse: Created a Horse named [Ranger}] with speed [2.6]
+2025-07-14 20:07:10.774 DEBUG Horse: Created a Horse named [Elvis}] with speed [2.7]
+2025-07-14 20:07:10.775 DEBUG Horse: Created a Horse named [Yoda}] with speed [2.8]
+2025-07-14 20:07:10.776 DEBUG Horse: Created a Horse named [Pegasus}] with speed [2.9]
+2025-07-14 20:07:10.777 DEBUG Horse: Created a Horse named [Shelby}] with speed [3.0]
+2025-07-14 20:07:10.779 DEBUG Hippodrome: Created a Hippodrome with [7] horses
+2025-07-14 20:07:10.780 INFO  Main: Start of the race. Number of participants: 7
+2025-07-14 20:07:31.392 INFO  Main: End of the race. Winner: Shelby
+2025-07-14 21:52:53.218 DEBUG Horse: Created a Horse named [Caballo}] with speed [10.0]
